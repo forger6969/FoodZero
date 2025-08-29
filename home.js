@@ -129,6 +129,8 @@ const emailBtn = document.getElementById(`footer-btn`)
 const warning = document.getElementById(`warning-footer`)
 const warningNot = document.getElementById(`warning-not`)
 
+
+
 let userEmailArr = []
 
 emailBtn.addEventListener(`click`, (event) => {
